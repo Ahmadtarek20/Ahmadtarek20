@@ -10,6 +10,6 @@ I am a software developer passionate about innovating technology, for creating w
 - 🌱 Full Stack Web Developer
 - 🔭 I'm a software developer [@Aramwest](http://aramwest.com/) in Cairo, Egypt.
 - 🔍 I have 1 years experience in FrontEnd & Backend
-- 💬 Ask me about **FrontEnd Angular and Backend Asb.Net Core**
+- 💬 Ask me about **FrontEnd Angular and Backend ASP.NET Core**
 
 
