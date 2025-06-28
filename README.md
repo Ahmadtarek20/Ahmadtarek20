@@ -8,7 +8,7 @@
 I am a software developer passionate about innovating technology, for creating web sites where the ability to provide accurate analysis of compound business system problems and suggest useful solutions. Some of the technologies I enjoy working with include Angular, Javascript, ASP.NET Core, and Python.
 
 - 🌱 Full Stack Web Developer
-- 🔭 I'm a software developer [@CPS](https://connectps.com/) in Cairo, Egypt.
+- 🔭 I'm a software developer [@DXC]([https://connectps.com/](https://dxc.com/us/en)) in Cairo, Egypt.
 - 🔍 I have 3 years experience in FrontEnd & Backend
 - 💬 Ask me about **FrontEnd Angular and Backend ASP.NET Core**
 
